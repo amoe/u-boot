@@ -1,0 +1,6 @@
+AM335X BOARD
+M:	David Banks <amoe@solasistim.net>
+S:	Maintained
+F:	board/ti/nova/
+F:	include/configs/nova.h
+F:	configs/am335x_nova_defconfig
